@@ -1,5 +1,5 @@
-
-<h3 align="center">Hello! I'm Prathamesh Shukla, a dedicated and passionate Technical Support Engineer and also Junior DevOps Engineer with a deep-rooted love for all things tech</h3>
+<h1 align="center">Hi 👋, I'm Prathamesh</h1>
+<h3 align="center">Hello All ! I'm Prathamesh Shukla, a dedicated and passionate Technical Support Engineer and also Junior DevOps Engineer with a deep-rooted love for all things tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-0709" /> </p>
 
